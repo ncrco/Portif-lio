@@ -1,0 +1,319 @@
+body{
+/* Desktop - 1 */
+position: relative;
+width: 1440px;
+height: 2007px;
+
+background: #040404;
+}
+
+
+.elemento {
+    position: relative;
+    width: 1505px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    background: #FAC5FB;
+    border-radius: 10px;
+}
+
+#nome {
+    /* Natalia de Jesus dos Santos */
+    position: absolute;
+    width: 800px;
+    height: 68px;
+    left: 315px;
+    top: -20px;
+
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 65px;
+    text-align: center;
+
+    color: #000000;
+
+    mix-blend-mode: color-burn;
+}
+
+#foto{
+/* Ellipse 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 277px;
+right: 49px;
+top: calc(50% - 277px/2 - 732px);
+
+background: url(foto.png);
+border: 6px dashed rgba(212, 133, 211, 0.73);
+border-radius: 350px;
+}
+.ap{
+
+    /* Olá tech! Seja bem vinho! Eu sou Natalia! Engenheira da computação, Analista de teste de software e desenvolvedora front-end. Sou apaixonada pelo oque faço e posso ajudar sua startup a desenvolver seus produtos. */
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 685px;
+height: 213px;
+left: 242px;
+top: 304px;
+
+background: #040404;
+border-left: 15px solid #FAC5FB;
+border-radius: 30px;
+
+position: absolute;
+width: 679px;
+height: 225px;
+left: 40px;
+top: 325px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.meu-botao{
+/* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 159px;
+height: 54px;
+left: 1030px;
+top: 100px;
+
+background: #FAC5FB;
+border: 5px dashed #D285D3;
+border-radius: 50px;
+}
+.meu-botao2{
+    /* Rectangle 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 159px;
+height: 54px;
+left: 1200px;
+top: 100px;
+
+background: #FAC5FB;
+border: 5px dashed #D285D3;
+border-radius: 50px;
+}
+.meu-botao:hover {
+    background-color: rgb(252, 166, 252);
+  }
+  .meu-botao2:hover {
+    background-color: rgb(252, 166, 252);
+  }
+  
+.fun{
+position: absolute;
+width: 1150px;
+height: 720px;
+left: 0px;
+top: 350px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+text-align: center;
+
+
+color: #D285D3;
+}
+.inf{
+position: absolute;
+width: 1150px;
+height: 720px;
+left: 9px;
+top: 90px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+ul {
+    list-style:outside;
+  }
+  
+  li {
+    display:inline-block;
+  }
+  a {
+    text-decoration: none;
+    color: rgb(3, 3, 3); /* ou color: #000000; */
+  }
+
+.destaque{
+    color: #FAC5FB;
+}
+
+.work{
+  /* WORK TOOLS */
+
+
+position: absolute;
+width: 429px;
+height: 96px;
+left: 147px;
+top: 965px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 65px;
+text-align: center;
+
+color: #FAC5FB;
+
+}
+.proj{
+  /* PROJETOS */
+
+
+position: absolute;
+width: 429px;
+height: 96px;
+left: 917px;
+top: 965px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 65px;
+text-align: center;
+
+color: #FAC5FB;
+
+}
+.forma{
+  /* FORMAÇÃO ACADÊMICA */
+
+
+position: absolute;
+width: 508px;
+height: 60px;
+left: 141px;
+top: 1306px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 65px;
+text-align: center;
+
+color: #FAC5FB;
+}
+.cursos{
+
+
+
+/* CURSOS */
+
+
+position: absolute;
+width: 508px;
+height: 60px;
+left: 861px;
+top: 1306px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 65px;
+text-align: center;
+
+color: #FAC5FB;
+}
+.disproj{
+  /* PPS FleetSolutions; Kinto One Personal (Toyota); Migração LmFrotas; Projeto Volvo; Projeto GM Financial; Nissan; Renault; */
+
+
+position: absolute;
+width: 431px;
+height: 449px;
+left: 927px;
+top: 1040px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+text-align: center;
+
+color: #FAC5FB;
+text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+}
+.disform{
+  /* Engenharia da Computação – Início: 07/2019 – Fim: 07/2023 Ux e Design Thinking, Segurança Cibernética, Gestão Ágil de Projetos, Lógica de Programação, Linguagem de Programação – Python, Banco de Dados SQL, Engenharia de Software, Engenharia de Requisitos */
+
+
+position: absolute;
+width: 599px;
+height: 333px;
+left: 101px;
+top: 1384px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+text-align: center;
+
+color: #FAC5FB;
+text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+
+
+}
+.discurso{
+  position: absolute;
+  width: 547px;
+  height: 321px;
+  left: 833px;
+  top: 1357px;
+  
+  font-family: 'Karma';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 39px;
+  text-align: center;
+  
+  color: #FAC5FB;
+
+text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+}
