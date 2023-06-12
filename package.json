@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.5.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.7.0"
   }
 }
