@@ -279,14 +279,29 @@ text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a b
 }
 .disform{
   /* Engenharia da Computação – Início: 07/2019 – Fim: 07/2023 Ux e Design Thinking, Segurança Cibernética, Gestão Ágil de Projetos, Lógica de Programação, Linguagem de Programação – Python, Banco de Dados SQL, Engenharia de Software, Engenharia de Requisitos */
-
-
-position: absolute;
-width: 599px;
-height: 333px;
-left: 101px;
-top: 1384px;
-
+  position: absolute;
+  width: 594px;
+  height: 75px;
+  left: 101px;
+  top: 1384px;
+  
+  font-family: 'Karma';
+  font-style: normal;
+  font-weight: 300;
+  font-size: px;
+  line-height: 34px;
+  text-align: center;
+  color: #FAC5FB;
+  text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+}
+.disf{
+  
+  position: absolute;
+  width: 534px;
+  height: 150px;
+  left: 133px;
+  top: 1472px;
+  
 font-family: 'Karma';
 font-style: normal;
 font-weight: 700;
@@ -295,16 +310,31 @@ line-height: 39px;
 text-align: center;
 
 color: #FAC5FB;
-text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
-
-
+  
 }
 .discurso{
+position: absolute;
+width: 489px;
+height: 79px;
+left: 880px;
+top: 1380px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 39px;
+text-align: center;
+  color: #FAC5FB;
+  text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+}
+.dis2{
+
   position: absolute;
   width: 547px;
   height: 321px;
-  left: 833px;
-  top: 1357px;
+  left: 858px;
+  top: 1498px;
   
   font-family: 'Karma';
   font-style: normal;
@@ -312,8 +342,182 @@ text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a b
   font-size: 15px;
   line-height: 39px;
   text-align: center;
-  
   color: #FAC5FB;
 
-text-shadow: 2px 2px 4px #E61FEA; /* Substitua "blue" pela cor desejada para a borda */
+}
+#figma
+{
+  /* Figma */
+position: absolute;
+width: 79px;
+height: 65px;
+left: 58px;
+top: 1063px;
+}
+
+#html{
+  /* HTML5 */
+
+
+position: absolute;
+width: 85px;
+height: 77px;
+left: 167px;
+top: 1057px;
+}
+#css{
+  /* CSS3 */
+
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 317px;
+top: 1057px;
+}
+#js{
+/* Javascript */
+
+
+position: absolute;
+width: 79px;
+height: 71px;
+left: 459px;
+top: 1059px;
+}
+
+#git{
+  /* Github */
+
+
+position: absolute;
+width: 93px;
+height: 77px;
+left: 603px;
+top: 1051px;
+}
+
+#imagem {
+  /* image 1 */
+
+
+position: absolute;
+width: 74px;
+height: 68px;
+left: 16px;
+top: 0px;
+
+background: url(image.png);
+}
+/* Contato */
+
+.contato{
+position: absolute;
+width: 508px;
+height: 60px;
+left: 146px;
+top: 1687px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 65px;
+text-align: center;
+
+color: #FAC5FB;
+}
+#email{
+  /* Email */
+
+
+position: absolute;
+width: 56px;
+height: 48px;
+left: 191px;
+top: 1764px;
+}
+#wsp{
+  /* WhatsApp */
+position: absolute;
+width: 61px;
+height: 54px;
+left: 186px;
+top: 1820px;
+}
+.hot{
+  position: absolute;
+width: 650px;
+height: 186px;
+left: 75px;
+top: 1772px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.cel {
+  position: absolute;
+width: 650px;
+height: 186px;
+left: 75px;
+top: 1830px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.botãoproj{
+position: absolute;
+width: 128px;
+height: 50px;
+left: 173px;
+top: 8px;
+
+background: #000000;
+border-radius: 10px;
+/* Projetos */
+
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.about{
+  /* Projetos */
+
+position: absolute;
+width: 128px;
+height: 50px;
+left: 1192px;
+top: 8px;
+  
+background: #000000;
+border-radius: 10px;
+
+font-family: 'Karma';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+
 }
