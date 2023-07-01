@@ -534,5 +534,11 @@ line-height: 33px;
 text-align: center;
 
 color: #FFFFFF;
+}
 
+body.principal{
+ 
+    background-color: #e2c3cb;
+    /* Outros estilos para o fundo do arquivo principal.html */
+  
 }
